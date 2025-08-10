@@ -1,0 +1,31 @@
+# Core
+streamlit==1.38.0
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+matplotlib==3.8.4
+seaborn==0.13.2
+xgboost==2.1.1
+
+
+# Model persistence & utilities
+joblib==1.4.2
+
+# Explainability
+shap==0.46.0
+
+# Hyperparameter tuning
+optuna==4.0.0
+
+# Automated EDA
+ydata-profiling==4.8.3
+
+# Deployment
+fastapi==0.112.2
+uvicorn==0.30.6
+
+# Optional but useful
+scikit-learn-extra==0.3.0
+
+# Plotting helpers
+colorlog==6.8.2
